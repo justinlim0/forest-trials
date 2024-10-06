@@ -3,7 +3,7 @@
 ## Description
 "Forest Trials" is a short, turn-based adventure game that I made in the 10th grade, using Python and a browser-based IDE called Replit. It uses basic classes, user-defined functions, and menus based on while loops. The graphics for the simple story all utilize ASCII art. It takes heavy inspiration from traditional turn-based JRPGs, especially Final Fantasy.
 
-![image](https://github.com/user-attachments/assets/9806586c-5c18-406e-b5fa-0b30589d0338)
+![image](https://github.com/user-attachments/assets/f79e531f-ac68-4501-a682-8740b168e83e)
 
 
 ### The Battle System
